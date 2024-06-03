@@ -1,6 +1,6 @@
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
-## Team 4 - "insert_team_name" - Hackathon 1, HTML & CSS Safeguarding Website Project
+## Team 4 - SON Guardian Trio - Hackathon 1, HTML & CSS Safeguarding Website Project
 
 ---
 ### Project Example Idea 1: Safeguarding Information Suite
