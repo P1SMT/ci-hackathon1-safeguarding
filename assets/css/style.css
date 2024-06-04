@@ -1,0 +1,15 @@
+/*--------------------------------Colours */
+
+.bg-color-header {background-color: #52605f;}
+.navbar {color:#FE7833;}
+.menu-items {color:#FE7833;}
+
+/*--------------------------------Header */
+
+.logo {background: url("../img/logo-color.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100px;
+
+}
