@@ -2,10 +2,20 @@ header {margin: 0;}
 /*--------------------------------Colours */
 
 .bg-color-header {background-color: #52605f;}
-.navbar {color:#FE7833;}
+.navbar-nav {
+    --bs-nav-link-color: #FE7833;
+    --bs-nav-link-hover-color: #f8f9fa;
+    display: flex;
+    padding-left: 0;
+    margin-bottom: 0;
+    list-style: none;
+    align-content: center;
+    flex-direction: row;
+    justify-content: flex-end;}
+.bs-navbar-toggler-border-color {color:#FE7833;}
+.active {color:#f8f9fa;}
+
 .menu-items {color:#FE7833;}
-.nav-pills {background-color: #FE7833;
-color:azure;}
 
 /*--------------------------------Header */
 
