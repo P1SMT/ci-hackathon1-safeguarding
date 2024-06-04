@@ -1,8 +1,11 @@
+header {margin: 0;}
 /*--------------------------------Colours */
 
 .bg-color-header {background-color: #52605f;}
 .navbar {color:#FE7833;}
 .menu-items {color:#FE7833;}
+.nav-pills {background-color: #FE7833;
+color:azure;}
 
 /*--------------------------------Header */
 
