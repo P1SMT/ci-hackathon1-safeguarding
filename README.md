@@ -1,19 +1,18 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+[![S.ON logo](https://logo.com/view/logo_6f647e4b-79a1-4a88-bfa7-4ce2b4d9c598)
 
-## Team 4 - SON Guardian Trio - Hackathon 1, HTML & CSS Safeguarding Website Project
+## S.ON Guardians - Safeguarding is ON
+S.ON Guardians is a website that aims to be a living hub for easily accessible information about safeguarding adults and children in the UK. The site is targeted for members of the UK public (non-professionals) who are seeking essential and comprehensive knowledge on understanding safeguarding, identifying abuse, current practices and available resources/pointers for raising Safeguarding incidents, so that they feel more confident when they wish to act as guardians in their community, protecting individuals from harm and abuse.
 
----
-### Project Example Idea 1: Safeguarding Information Suite
-  
-*External user's goal:* Users seek comprehensive information about
-safeguarding measures and resources to protect individuals from harm
-or abuse.
+### FEATURES
  
-### Site owner's goal: The site aims to provide easily accessible and
-valuable information on safeguarding practices and support services.
- 
-### Potential features to include:
- 
+1. Navigation Bar
+   * Featured on all three pages, the responsive navigation bar includes links to the S.ON Logo, About page, Adult Safeguarding and Children Safeguarding and is identical on each page to enable easy navigation.
+   * On mobile devices the navigation bar is hidden under a toggle button, which when selected, displays the pages in a row.
+   * The favicon is a switch, which is consistent with the S.ON branding and slogan - "Safeguarding is ON", reminding the user that acting as a Safeguarding guardian is an always available choice that's in their power.
+![image](https://github.com/P1SMT/ci-hackathon1-safeguarding/assets/169692491/53e75941-1404-49d7-ba9f-c4c1c4f45d90)
+![image](https://github.com/P1SMT/ci-hackathon1-safeguarding/assets/169692491/53e75941-1404-49d7-ba9f-c4c1c4f45d90)
+
+
 Multiple sections or pages covering various aspects of safeguarding
 such as child protection, domestic violence, and vulnerable adult
 support.
