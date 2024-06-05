@@ -1,0 +1,31 @@
+/*--------------------------------Header styling */
+
+header {padding: 0 1rem;
+background-color: #52605f;
+position: fixed;
+z-index:99;
+width:100%;}
+
+.logo {background: url("../img/logo-color.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100px;
+}
+
+.navbar-nav {
+    --bs-nav-link-color: #FE7833;
+    --bs-nav-link-hover-color: #f8f9fa;
+    display: flex;
+    padding-left: 0;
+    margin-bottom: 0;
+    list-style: none;
+    align-content: center;
+    flex-direction: row;
+    justify-content: flex-end;
+    width: 100%;}
+
+.active {color:#f8f9fa;}
+
+.menu-items {color:#FE7833;}
+
