@@ -4,7 +4,15 @@ footer {
   left: 0;
   bottom: 0;
   width: 100%;
-  background-color: rgb(182, 182, 233);
-  color: white;
+  background-color: #52605f;
+
+  color: #FE7833;
+text-decoration-color: white;
   text-align: center;
+}
+
+footer a {
+
+  color: rgb(225 228 233);
+  text-decoration: underline;
 }
