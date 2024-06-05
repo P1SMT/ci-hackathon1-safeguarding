@@ -22,7 +22,8 @@ width:100%;}
     list-style: none;
     align-content: center;
     flex-direction: row;
-    justify-content: flex-end;}
+    justify-content: flex-end;
+    width: 100%;}
 
 .bs-navbar-toggler-border-color {color:#FE7833;}
 .active {color:#f8f9fa;}
