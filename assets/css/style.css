@@ -1,16 +1,16 @@
-
 /*--------------------------------Header styling */
-header {padding: 0 1rem;
-  background-color: #52605F;
-  position: fixed;
-  z-index:99;
-  width:100%;}
+  header {padding: 0 1rem;
+    background-color: #52605F;
+    position: fixed;
+    z-index:99;
+    width:100%;}
+
   .logo {background: url("../img/logo-color.png");
       background-position: center;
       background-repeat: no-repeat;
       background-size: cover;
-      height: 100px;
-  }
+      height: 100px;}
+  
   .navbar-nav {
       --bs-nav-link-color: #FE7833;
       --bs-nav-link-hover-color: #F8F9FA;
@@ -22,11 +22,15 @@ header {padding: 0 1rem;
       flex-direction: row;
       justify-content: flex-end;
       width: 100%;}
+
   .active {color:#f8f9fa;}
+
   .menu-items {color:#FE7833;}
+
   /* -------------------------Main content styling */
   iframe {margin-top: 100px;
   padding-top: 20px;}
+
   /* -------------------------Footer styling */
   footer {
       position: fixed;
@@ -36,10 +40,9 @@ header {padding: 0 1rem;
       background-color: #52605F;
       color: #FE7833;
       text-decoration-color: white;
-      text-align: center;
-    }
-    footer a {
+      text-align: center;}
+   
+  footer a {
       color: rgb(225 228 233);
       text-decoration: underline;
     }
-
