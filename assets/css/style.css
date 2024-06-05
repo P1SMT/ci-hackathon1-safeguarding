@@ -6,6 +6,13 @@ position: fixed;
 z-index:99;
 width:100%;}
 
+.logo {background: url("../img/logo-color.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+}
+
 .navbar-nav {
     --bs-nav-link-color: #FE7833;
     --bs-nav-link-hover-color: #f8f9fa;
@@ -22,9 +29,3 @@ width:100%;}
 
 .menu-items {color:#FE7833;}
 
-.logo {background: url("../img/logo-color.png");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    height: 100%;
-}
