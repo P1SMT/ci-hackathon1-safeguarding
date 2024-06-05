@@ -1,7 +1,11 @@
-header {margin: 0;}
-/*--------------------------------Colours */
+/*--------------------------------Header styling */
 
-.bg-color-header {background-color: #52605f;}
+header {padding: 0 1rem;
+background-color: #52605f;
+position: fixed;
+z-index:99;
+width:100%;}
+
 .navbar-nav {
     --bs-nav-link-color: #FE7833;
     --bs-nav-link-hover-color: #f8f9fa;
@@ -12,17 +16,15 @@ header {margin: 0;}
     align-content: center;
     flex-direction: row;
     justify-content: flex-end;}
+    
 .bs-navbar-toggler-border-color {color:#FE7833;}
 .active {color:#f8f9fa;}
 
 .menu-items {color:#FE7833;}
 
-/*--------------------------------Header */
-
 .logo {background: url("../img/logo-color.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    min-height: 100px;
-
+    height: 100%;
 }
