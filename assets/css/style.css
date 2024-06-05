@@ -28,6 +28,9 @@ width:100%;}
 .active {color:#f8f9fa;}
 
 .menu-items {color:#FE7833;}
+/* -------------------------Main content styling */
+iframe {margin-top: 100px;
+padding-top: 20px;}
 
 /* -------------------------Footer styling */
 footer {
