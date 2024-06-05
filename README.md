@@ -1,9 +1,10 @@
-[![S.ON logo](https://logo.com/view/logo_6f647e4b-79a1-4a88-bfa7-4ce2b4d9c598)
+[S.ON logo](https://logo.com/view/logo_6f647e4b-79a1-4a88-bfa7-4ce2b4d9c598)
 
 ## S.ON Guardians - Safeguarding is ON
 S.ON Guardians is a website that aims to be a living hub for easily accessible information about safeguarding adults and children in the UK. The site is targeted for members of the UK public (non-professionals) who are seeking essential and comprehensive knowledge on understanding safeguarding, identifying abuse, current practices and available resources/pointers for raising Safeguarding incidents, so that they feel more confident when they wish to act as guardians in their community, protecting individuals from harm and abuse.
 
-### FEATURES
+---
+## FEATURES
  
 1. Navigation Bar
    * Featured on all three pages, the responsive navigation bar includes links to the S.ON Logo, About page, Adult Safeguarding and Children Safeguarding and is identical on each page to enable easy navigation.
