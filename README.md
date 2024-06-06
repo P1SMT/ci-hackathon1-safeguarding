@@ -2,13 +2,57 @@
 [S.ON logo](https://github.com/P1SMT/ci-hackathon1-safeguarding/blob/main/assets/img/logo-no-background.png)
 
 ## S.ON Guardians - Safeguarding is ON
-S.ON Guardians is a website that aims to be a living hub for easily accessible information, helping raise awareness about safeguarding adults and children in the UK. The site is targeted for members of the UK public (non-professionals) who seek essential and comprehensive knowledge on identifying abuse, understanding safeguarding, as well as current practices, available resources and pointers for raising Safeguarding concerns, so that they feel more confident when they wish to act as guardians in their community, protecting individuals from harm and abuse.
+S.ON Guardians is a website that aims to be a living hub for easily accessible information, helping raise awareness about safeguarding adults and children. The site is targeted for members of the UK public (non-professionals) who seek essential and comprehensive knowledge on identifying abuse, understanding safeguarding, as well as current practices, available resources and pointers for raising Safeguarding concerns, so that they feel more confident when they wish to act as guardians in their community, protecting individuals from harm and abuse.
 
 ## UX/UI Section
 __Branding__ 
 
-The _bright orange colour_ used on the S.ON logo and across the S.ON Guardians website was chosen because of its association with safety (safety vests in fluorescent yellow and bright orange are worn by various authorities because they provide the most visibility across a large variety of environments). 
+The _bright orange colour_ used on the S.ON Guardians logo and across the S.ON Guardians website was chosen because of its association with safety (safety vests in fluorescent yellow and bright orange are often worn across a large variety of environments, because they provide the most visibility). 
 SAFETY is the feeling we wish our users mentally associate with using the site and with acting on Safeguarding.
+
+__User Stories__
+
+User Stories – MoSCoW
+
+HOME/ABOUT PAGE:
+•	Must Do:
+o	As Safeguarding awareness page, I want to show users videos about safeguarding so they can instantly understand the concept at a glance.
+•	Should Do: Links to other safeguarding websites and different organisations.
+•	Could Do: 
+
+NAVIGATION BAR:
+•	Must Do:
+o	As a Safeguarding awareness page, I want a navbar on each page of the website, with clear and simple links to all of the pages on the site, so the user can enjoy navigating our website without having to use the browser’s back button.
+o	As a Safeguarding awareness page, I want clear and simple marking of the current page, so that the users know at all times which page they’re currently on.
+•	Should Do: As a Safeguarding awareness page, I want social media links in footer, to create social connections with our users.
+•	Could Do:  As a Safeguarding awareness page, I want to see how many people have visited our website.
+
+SAFEGUARDING CHILDREN:
+•	Must Do: As a user, I want to understand what measures could be taken to protect children in my community.
+o	Understand my options in signalling to authorities any safeguarding concerns related to children that I have, while not breaching other people’s privacy (providing personal details to authority without their consent).
+o	Contact details as immediate actions to be taken or asked to contact 999 (in emergency).
+•	Should Do: 
+o	As Safeguarding awareness page, I want to show users videos about safeguarding children, so they can instantly understand the concept at a glance.
+•	Could Do: 
+o	As a visitor I want to fill in the form anonymously, in a detailed Information Collection Form about the issue, so that I feel better that I signalled the issue to someone.
+
+SAFEGUARDING ADULTS: 
+•	Must Do: 
+o	As Safeguarding awareness page, I want to show users videos about safeguarding vulnerable adults, so they can instantly understand the concept at a glance.
+o	As Safeguarding awareness page, I want to offer resources and contact details for organisations that a user can contact on matters related to safeguarding vulnerable adults.
+•	Should Do: Links to other safeguarding websites and different organisations.
+•	Could Do: 
+
+CONTACT US: 
+•	Must Do: 
+•	Should Do:
+•	Could Do:
+o	As a Safeguarding awareness page, I want to offer the option to users to contact us, by either filling in a form / direct contact by phone or email.
+o	As a visitor I want to chat and discuss the issue (live chat option)
+o	A map showing our location (if we have a physical office).
+ 
+Create a website for a S.ON Guardians, providing essential information on safeguarding:
+![Feasibility/value chart]!(<assets/img/Feasibility_chart.png>)
 
 __Wireframes__
 
@@ -66,9 +110,10 @@ Creating the navbar posed several issues:
 ### Validator Testing 
 
 * HTML
-  - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcode-institute-org.github.io%2Flove-running-2.0%2Findex.html)
+  - Few errors were returned when passing through the official [W3C validator], which they will be fixed as soon as possible.
+  ![HTML W3](assets/img/HTML_W3_validator.jpg)
 * CSS
-  - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fvalidator.w3.org%2Fnu%2F%3Fdoc%3Dhttps%253A%252F%252Fcode-institute-org.github.io%252Flove-running-2.0%252Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en#css)
+  - No errors were found when passing through the official [(Jigsaw) validator]!(assets/img/CSS_validation_result.jpg)
 
 ### Unfixed Bugs
 
@@ -76,12 +121,9 @@ Creating the navbar posed several issues:
 
 ## Deployment
 
-- The site was deployed to GitHub pages. The below steps were followed to deploy the S.ON Guardians: 
-  - GitHub repository --> navigated to the Settings tab 
-  - From the source section drop-down menu --> selected the Main Branch
-  - Main branch selected --> the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
+- The S.ON Guardians website was deployed to GitHub pages.
 
-The live link can be found here - https://code-institute-org.github.io/love-running-2.0/index.html 
+The live link can be found here - https://p1smt.github.io/ci-hackathon1-safeguarding/ 
 
 
 ## CREDITS
