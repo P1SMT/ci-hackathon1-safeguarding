@@ -52,7 +52,7 @@ o	As a visitor I want to chat and discuss the issue (live chat option)
 o	A map showing our location (if we have a physical office).
  
 Create a website for a S.ON Guardians, providing essential information on safeguarding:
-![Feasibility/value chart]!(<assets/img/Feasibility_chart.png>)
+![Feasibility/value chart](Feasibility_chart.png)
 
 __Wireframes__
 
@@ -110,9 +110,9 @@ Creating the navbar posed several issues:
 ### Validator Testing 
 
 * HTML
-  - No errors were returned when passing through the official [W3C validator]!(assets/img/html-w3_validator.png)
+  - No errors were returned when passing through the official ![W3C validator](html-w3-validator.png)
 * CSS
-  - No errors were found when passing through the official [(Jigsaw) validator]!(assets/img/CSS_validation_result.jpg)
+  - No errors were found when passing through the official ![(Jigsaw) validator](CSS_validation_result.jpg)
 
 ### Unfixed Bugs
 
