@@ -110,8 +110,7 @@ Creating the navbar posed several issues:
 ### Validator Testing 
 
 * HTML
-  - Few errors were returned when passing through the official [W3C validator], which they will be fixed as soon as possible.
-  ![HTML W3](assets/img/HTML_W3_validator.jpg)
+  - No errors were returned when passing through the official [W3C validator]!(assets/img/html-w3_validator.png)
 * CSS
   - No errors were found when passing through the official [(Jigsaw) validator]!(assets/img/CSS_validation_result.jpg)
 
